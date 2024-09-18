@@ -1,0 +1,30 @@
+/* src/components/Products.css */
+.products-container {
+  padding: 2rem;
+  text-align: center;
+}
+
+.products-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.product-card {
+  border: 1px solid #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  text-align: center;
+  width: 200px;
+  background-color: #f9f9f9;
+  transition: transform 0.3s ease;
+}
+
+.product-card:hover {
+  transform: scale(1.05);
+}
+
+.product-image {
+  width: 100%;
+  height: auto;
+}

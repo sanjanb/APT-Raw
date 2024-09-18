@@ -1,0 +1,25 @@
+/* src/components/AboutUs.css */
+#about-us {
+  padding: 20px;
+  text-align: center;
+}
+
+#about-us h2 {
+  margin-bottom: 20px;
+}
+
+#about-us ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#about-us li {
+  margin: 10px 0;
+}
+
+/* src/components/AboutUs.css */
+.about-us-section {
+  padding: 40px 20px;
+  background: url("../assets/images/about-us-background.jpg");
+  /* Other styles */
+}
