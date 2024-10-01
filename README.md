@@ -47,7 +47,7 @@ To set up this project locally, follow these steps:
 ```bash
   npm start
   ```
-##Usage
+***Usage***
 Once the server is running, you can access the website at http://localhost:3000. Explore the various sections, including Products, Services, About Us, and Contact Us.
 
 
